@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋🏽, My name is Eric Umeohabike<br>🧑🏽‍💻 A passionate software developer and product designer.<br> 🔭 I'm currently enrolled in an online academy, Microverse<br>👯 Also, I'm looking to collaborate with a backend developer for another e-commerce project<br>🤝 I'm working on Building a transport app<br>🌱 I would be looking forward to automation testing<br>💬 Ask me about my frontend skills<br>⚡ Fun fact - I enjoy late night snacks and coding<br>
+Hi 👋🏽, My name is Eric Umeohabike<br>🧑🏽‍💻 A passionate software developer and product designer.<br> 🔭 I'm was enrolled in an online academy, Microverse<br>👯 Also, I'm looking to collaborate with a developer for another e-commerce project<br>🤝 I'm working on Building a real-estate app<br>🌱 I would be looking forward to automation testing<br>💬 Ask me about my frontend skills<br>⚡ Fun fact - I enjoy late night snacks and coding<br>
 
 
 ## 🌐 Socials:
