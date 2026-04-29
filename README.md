@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi 👋🏽, My name is Eric Umeohabike<br>🧑🏽‍💻 A passionate software developer and product designer.<br> 🔭 I'm was enrolled in an online academy, Microverse<br>👯 Also, I'm looking to collaborate with a developer for another e-commerce project<br>🤝 I'm working on Building a real-estate app<br>🌱 I would be looking forward to automation testing<br>💬 Ask me about my frontend skills<br>⚡ Fun fact - I enjoy late night snacks and coding<br>
+Hi 👋🏽, My name is Eric Umeohabike<br> a software developer and product builder with a focus on designing and shipping scalable digital products.
+
+I have over four years of experience working with React and Next.js, building applications across real estate, community platforms, and operational tools. I am the founder of Lyteville, a real estate technology platform connecting hosts and guests for shortlet properties, and a co-founder of Tech Ignite Africa, a community that supports and connects tech talent across Africa.
+
+Recently, I have been focused on building product-driven solutions, including:
+
+A hotel management system MVP (Frontbill) designed to streamline operations for hospitality businesses
+A matchmaking mobile application currently in development
+Open-source and collaborative projects aimed at solving real-world operational challenges
+
+My interests lie in product engineering, system design, and building tools that improve business efficiency and user experience. I am also actively contributing to technical communities through mentorship and collaboration.
 
 
 ## 🌐 Socials:
